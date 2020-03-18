@@ -1,0 +1,18 @@
+{
+  "name": "test-nextjs-category",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next -p 8081",
+    "build": "next build",
+    "start": "next start -p 8081"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^9.3.0",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
